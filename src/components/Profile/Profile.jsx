@@ -1,15 +1,11 @@
 import React from "react";
 import MyPosts from "./MyPosts/MyPosts";
+import ProfileInfo from "./ProfileInfo/ProfileInfo";
 
 const Profile = () => {
     return (
         <div>
-            <div>
-                <img src='https://wallbox.ru/resize/2560x1440/wallpapers/main2/201742/zakat-more-plaz-tropiki12.jpg'/>
-            </div>
-            <div>
-                ava + description
-            </div>
+            <ProfileInfo/>
             <MyPosts/>
         </div>
     )

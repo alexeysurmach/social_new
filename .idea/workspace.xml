@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb3eb7bf-83c1-4ae8-ba0a-75d36cc32ed1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/News" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,11 +49,11 @@
       <recent name="F:\JS\social_new\src\components\Header" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JS\social_new\src\components\Profile\ProfileInfo" />
+      <recent name="F:\JS\social_new\src\components\Profile" />
       <recent name="F:\JS\social_new\src\components\News" />
       <recent name="F:\JS\social_new\src\components" />
       <recent name="F:\JS\social_new\src\components\Dialogs" />
-      <recent name="F:\JS\social_new\src\components\Profile\MyPosts\Post" />
-      <recent name="F:\JS\social_new\src\components\Profile\MyPosts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -101,7 +103,11 @@
       <workItem from="1586424642541" duration="9612000" />
       <workItem from="1586513315643" duration="1218000" />
       <workItem from="1586589620683" duration="10272000" />
-      <workItem from="1586676357499" duration="4569000" />
+      <workItem from="1586676357499" duration="4752000" />
+      <workItem from="1586790624205" duration="8000" />
+      <workItem from="1587023736197" duration="3098000" />
+      <workItem from="1587037158875" duration="3789000" />
+      <workItem from="1587049360478" duration="1543000" />
     </task>
     <task id="LOCAL-00001" summary="Structure and module.css">
       <created>1586075636501</created>
@@ -131,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586613003516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="little css">
+      <created>1586700270437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586700270437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +167,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Structure and module.css" />
     <MESSAGE value="settings routes" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings routes" />
+    <MESSAGE value="little css" />
+    <option name="LAST_COMMIT_MESSAGE" value="little css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
