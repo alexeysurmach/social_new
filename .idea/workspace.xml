@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb3eb7bf-83c1-4ae8-ba0a-75d36cc32ed1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs/DilogItem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,17 +42,17 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JS\social_new\src\components\Dialogs\DilogItem" />
+      <recent name="F:\JS\social_new\src\components\Dialogs\Message" />
+      <recent name="F:\JS\social_new\src\components\Profile\ProfileInfo" />
+      <recent name="F:\JS\social_new\src\components\Profile" />
+      <recent name="F:\JS\social_new\src\components\News" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\JS\social_new\src\components\Profile" />
       <recent name="F:\JS\social_new\src\components\NavBar" />
       <recent name="F:\JS\social_new\src\components\Header" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\JS\social_new\src\components\Profile\ProfileInfo" />
-      <recent name="F:\JS\social_new\src\components\Profile" />
-      <recent name="F:\JS\social_new\src\components\News" />
-      <recent name="F:\JS\social_new\src\components" />
-      <recent name="F:\JS\social_new\src\components\Dialogs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -107,7 +108,8 @@
       <workItem from="1587037158875" duration="3789000" />
       <workItem from="1587049360478" duration="2499000" />
       <workItem from="1587052456903" duration="4832000" />
-      <workItem from="1587284960875" duration="5413000" />
+      <workItem from="1587284960875" duration="5671000" />
+      <workItem from="1587649877381" duration="5047000" />
     </task>
     <task id="LOCAL-00001" summary="Structure and module.css">
       <created>1586075636501</created>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587287921147</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".map">
+      <created>1587290624100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587290624100</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +200,8 @@
     <MESSAGE value="little css" />
     <MESSAGE value="css, route, props" />
     <MESSAGE value="add massive" />
-    <option name="LAST_COMMIT_MESSAGE" value="add massive" />
+    <MESSAGE value=".map" />
+    <option name="LAST_COMMIT_MESSAGE" value=".map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
