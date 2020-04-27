@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb3eb7bf-83c1-4ae8-ba0a-75d36cc32ed1" name="Default Changelist" comment="Refactoring">
+    <list default="true" id="bb3eb7bf-83c1-4ae8-ba0a-75d36cc32ed1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
@@ -111,7 +111,8 @@
       <workItem from="1587049360478" duration="2499000" />
       <workItem from="1587052456903" duration="4832000" />
       <workItem from="1587284960875" duration="5671000" />
-      <workItem from="1587649877381" duration="10720000" />
+      <workItem from="1587649877381" duration="10747000" />
+      <workItem from="1587968900101" duration="4008000" />
     </task>
     <task id="LOCAL-00001" summary="Structure and module.css">
       <created>1586075636501</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587665771232</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="props">
+      <created>1587726200519</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587726200519</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +219,8 @@
     <MESSAGE value="add massive" />
     <MESSAGE value=".map" />
     <MESSAGE value="Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <MESSAGE value="props" />
+    <option name="LAST_COMMIT_MESSAGE" value="props" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
