@@ -1,4 +1,7 @@
-import {rerenderEntireThree} from "../render";
+
+let rerenderEntireThree =()=>{
+
+}
 
 let state = {
     profilePage: {
@@ -25,7 +28,7 @@ let state = {
 
 }
 
-export let addPost = () => {
+export const addPost = () => {
     let newPost = {
         id: 3,
         message: state.profilePage.newPostText,
@@ -36,9 +39,12 @@ export let addPost = () => {
     rerenderEntireThree(state);
 };
 
-export let updateNewPostText = (newText) => {
+export const updateNewPostText = (newText) => {
     state.profilePage.newPostText=newText;
     rerenderEntireThree(state);
 };
 
+export let subscribe = (obsever)=>{
+rerenderEntireThree = obsever;
+}
 export default state
